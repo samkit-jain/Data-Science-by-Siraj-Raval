@@ -20,3 +20,9 @@ Accuracy over whole dataset - 100.0 %
 
 Highest accuracy of 100.0 % attained by SVM
 ```
+
+### Twitter Sentiment Analysis
+[Lesson #2](https://www.youtube.com/watch?v=o_OZdbCzHUA&index=2&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
+Output -<br/>
+Check out the resultant CSV file [here](output.csv)
