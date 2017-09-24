@@ -38,3 +38,10 @@ Linear SVR - 14.8779798357
 Polynomial SVR - 14.95025451
 Neural Network - [[ 15.15664768]]
 ```
+
+### Deep Dream in TensorFlow
+[Lesson #2](https://www.youtube.com/watch?v=MrBzgvUNr4w)
+
+Output -<br/>
+GIF of the first 30 frames<br/>
+![](output.gif)
