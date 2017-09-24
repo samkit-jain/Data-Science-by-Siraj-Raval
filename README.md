@@ -40,7 +40,7 @@ Neural Network - [[ 15.15664768]]
 ```
 
 ### Deep Dream in TensorFlow
-[Lesson #2](https://www.youtube.com/watch?v=MrBzgvUNr4w)
+[Lesson #5](https://www.youtube.com/watch?v=MrBzgvUNr4w)
 
 Output -<br/>
 GIF of the first 30 frames<br/>
