@@ -45,3 +45,18 @@ Neural Network - [[ 15.15664768]]
 Output -<br/>
 GIF of the first 30 frames<br/>
 ![](output.gif)
+
+### Genetic Algorithms
+[Lesson #6](https://www.youtube.com/watch?v=dSofAXnnFrY)
+
+Output -<br/>
+```
+Generation 1 - Current best internal CV score: 0.35872131555702474
+Generation 2 - Current best internal CV score: 0.35872131555702474
+Generation 3 - Current best internal CV score: 0.35872131555702474
+Generation 4 - Current best internal CV score: 0.35872131555702474
+Generation 5 - Current best internal CV score: 0.35872131555702474                                                           
+
+Best pipeline: GradientBoostingRegressor(input_matrix, GradientBoostingRegressor__alpha=0.99, GradientBoostingRegressor__learning_rate=0.1, GradientBoostingRegressor__loss=ls, GradientBoostingRegressor__max_depth=DEFAULT, GradientBoostingRegressor__max_features=0.7, GradientBoostingRegressor__min_samples_leaf=3, GradientBoostingRegressor__min_samples_split=13, GradientBoostingRegressor__n_estimators=DEFAULT, GradientBoostingRegressor__subsample=0.95)
+Accuracy: 0.347528253906
+```
