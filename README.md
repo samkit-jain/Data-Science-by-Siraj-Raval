@@ -27,6 +27,51 @@ Highest accuracy of 100.0 % attained by SVM
 Output -<br/>
 Check out the resultant CSV file [here](output.csv)
 
+### Recommendation Systems
+[Lesson #3](https://www.youtube.com/watch?v=9gBC9R-msAk)
+
+Solution incomplete (using movielens dataset and not a different one)
+
+Output -
+```
+---bpr---
+Test precision: 6.381%
+---warp---
+Test precision: 8.009%
+---logistic---
+Test precision: 5.600%
+Highest precision of 8.009% attained by warp.
+Result is
+
+User 3
+     Known positives:
+        Seven (Se7en) (1995)
+        Contact (1997)
+        Starship Troopers (1997)
+     Recommended:
+        Scream (1996)
+        Game, The (1997)
+        Cop Land (1997)
+User 25
+     Known positives:
+        Dead Man Walking (1995)
+        Star Wars (1977)
+        Fargo (1996)
+     Recommended:
+        Fargo (1996)
+        English Patient, The (1996)
+        L.A. Confidential (1997)
+User 450
+     Known positives:
+        Contact (1997)
+        George of the Jungle (1997)
+        Event Horizon (1997)
+     Recommended:
+        Conspiracy Theory (1997)
+        Game, The (1997)
+        G.I. Jane (1997)
+```
+
 ### Predicting Stock Prices
 [Lesson #4](https://www.youtube.com/watch?v=SSu00IRRraY)
 
