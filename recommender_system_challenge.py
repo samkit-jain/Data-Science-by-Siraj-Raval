@@ -66,6 +66,7 @@ for name, model in models.items():
 max_auc = max([value["auc"] for value in models.values()])
 name = [name for name, value in models.items() if value["auc"] == max_auc][0]
 
+print()
 print("Highest AUC of %.3f%% attained by %s." % (max_auc, name))
 print()
 print("Result is")
