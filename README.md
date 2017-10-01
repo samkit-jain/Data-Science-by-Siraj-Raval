@@ -34,42 +34,42 @@ Solution incomplete (using movielens dataset and not a different one)
 
 Output -
 ```
----bpr---
-Test precision: 6.381%
 ---warp---
-Test precision: 8.009%
+Test AUC: 68.628%
 ---logistic---
-Test precision: 5.600%
-Highest precision of 8.009% attained by warp.
+Test AUC: 53.610%
+---bpr---
+Test AUC: 70.688%
+
+Highest AUC of 0.707% attained by bpr.
+
 Result is
 
-User 3
-     Known positives:
-        Seven (Se7en) (1995)
-        Contact (1997)
-        Starship Troopers (1997)
-     Recommended:
-        Scream (1996)
-        Game, The (1997)
-        Cop Land (1997)
-User 25
-     Known positives:
-        Dead Man Walking (1995)
-        Star Wars (1977)
-        Fargo (1996)
-     Recommended:
-        Fargo (1996)
-        English Patient, The (1996)
-        L.A. Confidential (1997)
-User 450
-     Known positives:
-        Contact (1997)
-        George of the Jungle (1997)
-        Event Horizon (1997)
-     Recommended:
-        Conspiracy Theory (1997)
-        Game, The (1997)
-        G.I. Jane (1997)
+User 69
+     Labels of the questions they answered:
+        multivariable
+        outliers
+     Labels of the questions they should answer:
+        biostatistics
+        correspondence-analysis
+        logistic
+User 789
+     Labels of the questions they answered:
+        causality
+        econometrics
+        survey
+     Labels of the questions they should answer:
+        cross-validation
+        random-forest
+        boosting
+User 3210
+     Labels of the questions they answered:
+        standard-deviation
+        outliers
+     Labels of the questions they should answer:
+        python
+        spatial
+        outliers
 ```
 
 ### Predicting Stock Prices
